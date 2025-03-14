@@ -1,2 +1,3 @@
 # first
-This is my first repositery
+This is my first repositery  
+Author - Rijul Sachan
